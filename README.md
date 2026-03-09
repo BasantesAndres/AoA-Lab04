@@ -1,8 +1,8 @@
 # 🚀 Analysis of Algorithms — Lab 04
-
+Yachay Tech University
 **Student:** Andres Basantes  
 **Instructor:** Israel Pineda  
-**University:** Yachay Tech University
+
 
 ---
 
@@ -91,6 +91,3 @@ For Knapsack, the program prints a table with:
 The full analysis, discussion, screenshots, and experimental results are included in the lab report.
 
 ---
-
-## 🏫 Yachay Tech
-Made for **Analysis of Algorithms — Lab 04** at **Yachay Tech University**.
